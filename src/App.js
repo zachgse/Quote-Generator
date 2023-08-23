@@ -25,13 +25,13 @@ function App() {
     "You're always my mind thats how much I care. JOCKIE PLAY LDR HIHI.",
     "You are the best thing, that's ever been mine.",
     "Promise me not to hide yourself when you're in pain, it's unfair that we laughed together but you cried alone.",
-    "I'm so lucky to have you!",
+    "I am so lucky to have you!",
     "I am so proud of you baby!",
     "Mwamwamwamwamwamwamwamwa", 
     "You deserve everything in this world baby and I'll work hard to give you everything.",
     "Let me love you the way you deserve to be loved",
     "Your existence alone means a lot to me.", 
-    "Your my best support in DOTA hihi & mortal enemy in VALO HAHAHAHA", 
+    "You're my best support in DOTA hihi & mortal enemy in VALO HAHAHAHA", 
     "You're not bossy, you're my boss"
   ];
   const [isLoading, setIsLoading] = useState(false);
