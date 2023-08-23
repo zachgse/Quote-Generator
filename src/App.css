@@ -1,0 +1,31 @@
+body {
+    background-image: url('./img/test.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh !important;
+    text-align: center;
+}
+
+section {
+    min-height: 100vh;
+}
+
+.auto {
+    margin: auto;
+}
+
+.btn-outline {
+    background-color: orange !important;
+    color: white !important;
+    height: 80px;
+    width: 100px;
+    border-radius: 50% !important;
+}
+
+.btn-outline:hover {
+    transition: 0.5s ease;
+    height: 100px;
+    width: 120px;
+}
+
+
