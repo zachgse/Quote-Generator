@@ -27,12 +27,14 @@ function App() {
     "Promise me not to hide yourself when you're in pain, it's unfair that we laughed together but you cried alone.",
     "I am so lucky to have you!",
     "I am so proud of you baby!",
-    "Mwamwamwamwamwamwamwamwa", 
+    "Mwa mwa mwa mwa mwa mwa mwa mwa", 
     "You deserve everything in this world baby and I'll work hard to give you everything.",
     "Let me love you the way you deserve to be loved",
     "Your existence alone means a lot to me.", 
     "You're my best support in DOTA hihi & mortal enemy in VALO HAHAHAHA", 
-    "You're not bossy, you're my boss"
+    "You're not bossy, you're my boss",
+    "I'm sorry for not leaving you once ice. I was frustrated and I really admit that. Sana mapatawad mo ko for that and I swear na I'll bawi",
+    "I want to spend my 24/7 365 366 with you :<",
   ];
   const [isLoading, setIsLoading] = useState(false);
   const [isSampleDataVisible, setIsSampleDataVisibile] = useState(true);
